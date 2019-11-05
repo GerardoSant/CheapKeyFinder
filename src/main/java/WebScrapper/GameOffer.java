@@ -28,7 +28,7 @@ public class GameOffer {
     }
 
     public String toString(){
-        return "Shop: " + getShop() +  "| Price: " + getPrice() + "| Link: " + getLink() + "\n";
+        return "Shop: " + getShop() +  " | Price: " + getPrice() + " | Link: " + getLink() + "\n";
     }
 
 
