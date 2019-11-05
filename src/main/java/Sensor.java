@@ -1,6 +1,3 @@
 public interface Sensor {
-
-
-    Sensor getValue();
-
+    public Object getValue();
 }
